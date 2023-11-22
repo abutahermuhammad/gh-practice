@@ -1,0 +1,7 @@
+name: "Github Action"
+description: "Practicing actions"
+author: "Abu Taher Muhammad<https://at-mah.vercel.app>"
+
+runs:
+  using: "node16"
+  main: "dist/index.js"
